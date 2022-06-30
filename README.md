@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PassFaid, avid chess played and automation enthusiast. 
 - 👀 I’m interested in DevOps, automation and CI/CD. Basically anything to make the Devs' life easier and with less friction
-- 🌱 I’m currently learning Jenkins/Ansible/Terraform/env0/Docker/Kubernetes/AWS
+- 🌱 I’m currently learning Terraform/env0/Docker/Kubernetes/AWS/EKS
 - 📫 How to reach me:
 email:faidon.passias@gmail.com
 
